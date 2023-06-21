@@ -22,7 +22,7 @@
   <description>Parent POM - Application example for Continuous Enterprise Development in Java</description>
 
   <properties>
-    <version.neo4j>1.9</version.neo4j>
+    <version.neo4j>1.9.9</version.neo4j>
     <version.jackson_jaxrs>2.2.2</version.jackson_jaxrs>
     <version.infinispan>5.3.0.Final</version.infinispan>
     <version.agorava>0.6.1</version.agorava>
