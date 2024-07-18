@@ -36,7 +36,7 @@
     <version.webjars_angular_ui_utils>47ff7ef35c</version.webjars_angular_ui_utils>
     <version.webjars_boostrap>3.0.0</version.webjars_boostrap>
     <version.webjars_boostrap_datetime>6aa746736d</version.webjars_boostrap_datetime>
-    <version.webjars_font_awesome>3.2.1</version.webjars_font_awesome>
+    <version.webjars_font_awesome>4.3.0-1</version.webjars_font_awesome>
 
     <version.jboss_spec>3.0.1.Final</version.jboss_spec>
 
