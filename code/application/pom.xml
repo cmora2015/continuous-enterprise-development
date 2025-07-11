@@ -23,7 +23,7 @@
 
   <properties>
     <version.neo4j>1.9</version.neo4j>
-    <version.jackson_jaxrs>2.2.2</version.jackson_jaxrs>
+    <version.jackson_jaxrs>2.15.0</version.jackson_jaxrs>
     <version.infinispan>5.3.0.Final</version.infinispan>
     <version.agorava>0.6.1</version.agorava>
     <version.agorava_twitter>0.6.0</version.agorava_twitter>
